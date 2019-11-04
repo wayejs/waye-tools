@@ -1,0 +1,19 @@
+{
+  "name": "waye-tools",
+  "version": "1.0.0",
+  "description": "weiyi tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "lynzz",
+  "license": "ISC",
+  "dependencies": {
+    "client-oauth2": "^4.2.5",
+    "dayjs": "^1.8.16",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "node-xlsx": "^0.15.0",
+    "request": "^2.88.0"
+  }
+}
